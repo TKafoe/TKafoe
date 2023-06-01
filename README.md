@@ -2,7 +2,7 @@
   About Me
 </h2>
 
-- 📖 Master student Computer Science and Engineering at [Eindhoven University of Technology](https://www.tue.nl/en/).
+- 📖 Master student in Computer Science and Engineering at [Eindhoven University of Technology](https://www.tue.nl/en/).
 - 💬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tkafoe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tkafoe/)
 
 <h2>
@@ -30,9 +30,9 @@ title="cmake" **alt="cmake" width="40" height="40" />
   Currently working on  
 </h2
   
-- ❔ Quiz Android app developed using Flutter with Django and Postgresql as REST api. The project is hosted on Heroku, however, it is not live yet as it is a work in progress.
-- 🗒️ Interactive web-based widgets for a university course for first year mechanical engineering students. The interactivity will help user understand the material better as they are able to play with the contents live. 
-
+- ❔ Quiz Android app developed using Flutter with Django and Postgresql as REST API. We use Heroku to host the project. However, it has yet to be released live as it is a work in progress.
+- 🗒️ Interactive web-based widgets for a university course for first-year mechanical engineering students. The interactivity will help users understand the material better as they can play with the content of the class live. 
+  
 <h2>
   Highlighted Projects
 </h2>
@@ -41,12 +41,12 @@ title="cmake" **alt="cmake" width="40" height="40" />
   🕹️ Cat Invaders 2
 </h3>
 
-A fun and simple intuitive survival type video game. This game was built in JavaScript using P5 for JavaScript as the rendering engine. I ported this game to mobile using
+A fun and simple, intuitive survival-type video game. This game was built in JavaScript using P5 for JavaScript as the rendering engine. I ported this game to mobile using
 Cordova to add mobile input, but it is also live on my Github.io page [here](https://tkafoe.github.io/CatInvaders2).
 
 <h3>
   🔍 Sorting visualizer  
 </h3>
 
-A small animation that visualizes how the Insertion sort and Merge sort algorithms work. It is drawn using P5 for JavaScript and NodeJS. You can see it on my Github IO page [here](https://tkafoe.github.io/SortingVisualiser).
+A small animation that visualizes how the Insertion sort and Merge sort algorithms work. It uses P5 for JavaScript as a rendering engine, and you can see it on my Github IO page [here](https://tkafoe.github.io/SortingVisualiser).
 
