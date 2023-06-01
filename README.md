@@ -45,7 +45,7 @@ A fun and simple intuitive survival type video game. This game was built in Java
 Cordova to add mobile input, but it is also live on my Github.io page [here](https://tkafoe.github.io/CatInvaders2).
 
 <h3>
-  ✏️ Sorting visualizer  
+  🔍 Sorting visualizer  
 </h3>
 
 A small animation that visualizes how the Insertion sort and Merge sort algorithms work. It is drawn using P5 for JavaScript and NodeJS. You can see it on my Github IO page [here](https://tkafoe.github.io/SortingVisualiser).
