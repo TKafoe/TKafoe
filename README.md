@@ -38,6 +38,8 @@ title="cmake" **alt="cmake" width="75" height="75" />
   Github IO Projects
 </h2>
 
+Here I have highlighted some side projects that have a visualization aspect, which makes them perfect to host on Github IO.
+Note: none of these projects are developed for mobile.
 <h3>
   🕹️ Cat Invaders 2
 </h3>
