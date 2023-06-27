@@ -31,7 +31,7 @@ title="cmake" **alt="cmake" width="40" height="40" />
 </h2
   
 - ❔ Quiz Android app developed using Flutter with Django and Postgresql as REST API. We use Heroku to host the project. However, it has yet to be released live as it is a work in progress.
-- 🗒️ Interactive web-based widgets for a university course for first-year mechanical engineering students. The interactivity will help users understand the material better as they can play with the content of the class live. 
+- 🗒️ Interactive JavaScript widgets using Paper.js for a university course for first-year mechanical engineering students. The interactivity will help users understand the material better as they can play with the content of the class live. 
   
 <h2>
   Highlighted Projects
