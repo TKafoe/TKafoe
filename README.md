@@ -42,7 +42,7 @@ Note: none of these projects are developed for mobile.
 
 ### 🕹️ [Cat Invaders 2](https://tkafoe.github.io/CatInvaders2)
 
-A fun and simple, intuitive survival-type video game. You can move the yellow square using the arrow-keys. Try to eat the yellow square to gain speed and try to survive as long as you can. This game was built in JavaScript using P5 for JavaScript as the rendering engine. I ported this game to mobile using
+A fun and simple, intuitive survival-type video game. You can move the player using the arrow-keys. Try to eat the yellow square to gain speed and try to survive as long as you can. This game was built in JavaScript using P5 for JavaScript as the rendering engine. I ported this game to mobile using
 Cordova to add mobile input, but it is also live on my Github.io page [here](https://tkafoe.github.io/CatInvaders2).
 
 ---
