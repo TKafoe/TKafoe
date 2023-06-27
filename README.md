@@ -50,3 +50,9 @@ Cordova to add mobile input, but it is also live on my Github.io page [here](htt
 
 A small animation that visualizes how the Insertion sort and Merge sort algorithms work. It uses P5 for JavaScript as a rendering engine, and you can see it on my Github IO page [here](https://tkafoe.github.io/SortingVisualiser).
 
+
+<h3>
+  🎱 Bouncy Balls  
+</h3>
+
+A small animation that shows multiple balls bouncing and interacting with each other. It uses the JavaScript library Paper.js to draw and animate the balls. You can see it live on my Github IO Page [here](https://tkafoe.github.io/BouncyBalls/).
