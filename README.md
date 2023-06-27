@@ -3,13 +3,14 @@
 </h2>
 
 - 📖 Master student in Computer Science and Engineering at [Eindhoven University of Technology](https://www.tue.nl/en/).
+  
 - 💬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tkafoe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tkafoe/)
 
 <h2>
   Languages and Tools:
 </h2>
 
-<div align="center">
+<div align="center" style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="75" height="75"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" **alt="Python" width="75" height="75" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" **alt="Django" width="75" height="75"/>
@@ -29,7 +30,7 @@ title="cmake" **alt="cmake" width="75" height="75" />
 <h2>
   Currently working on  
 </h2
-  
+
 - ❔ Quiz Android app developed using Flutter as the mobile framework, Django as REST API, and Postgresql for data storage. We use Heroku to host the project. However, it has yet to be released live as it is a work in progress.
 - 🗒️ Interactive JavaScript widgets using Paper.js for a university course for first-year mechanical engineering students. The interactivity will help users understand the material better as they can play with the content of the class live. 
   
