@@ -35,7 +35,7 @@ title="cmake" **alt="cmake" width="75" height="75" />
 - 🗒️ Interactive JavaScript widgets using Paper.js for a university course for first-year mechanical engineering students. The interactivity will help users understand the material better as they can play with the content of the class live. 
   
 <h2>
-  Highlighted Projects
+  Github IO Projects
 </h2>
 
 <h3>
