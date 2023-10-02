@@ -34,6 +34,8 @@ The Cycle of Light was an art installation that visualizes light exposures betwe
 
 ![cycle_of_light](https://github.com/TKafoe/TKafoe/assets/35031598/a1d01f98-4227-426b-9aae-751b453c72f6)
 
+---
+
 ### Github IO Projects
 
 Here I have highlighted some side projects that have a visualization aspect, which makes them perfect to host on Github IO.
