@@ -1,4 +1,3 @@
-![image](https://github.com/TKafoe/TKafoe/assets/35031598/4766fe18-98b8-424a-b55d-cdbc96fa47aa)
 ## Tom Kafoe - About Me
 
 - 📖 Master student in Computer Science and Engineering at [Eindhoven University of Technology](https://www.tue.nl/en/).
