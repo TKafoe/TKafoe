@@ -1,6 +1,9 @@
+![image](https://github.com/user-attachments/assets/55a53e31-17d4-4a61-87a5-cf30143d8d64)
+
+
 ## Tom Kafoe - About Me
 
-- 📖 Master student in Computer Science and Engineering at [Eindhoven University of Technology](https://www.tue.nl/en/).
+- 💻 Senior full stack engineer at [Netlight](https://www.netlight.com/).
   
 - 💬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tkafoe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tkafoe/)
 
@@ -9,6 +12,7 @@
 <div align="center" style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="75" height="75"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" **alt="Python" width="75" height="75" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" **alt="Python" width="75" height="75" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" **alt="Django" width="75" height="75"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="75" height="75"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="75" height="75"/>&nbsp;
@@ -18,8 +22,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" 
 title="cmake" **alt="cmake" width="75" height="75" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="75" height="75"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="as" **alt="as" width="75" height="75" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" title="heroku" **alt="heroku" width="75" height="75"  />      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="Github" **alt="Github" width="75" height="75"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="Github Actions" **alt="Github Actions" width="75" height="75"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="as" **alt="as" width="75" height="75" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" **alt="as" width="75" height="75" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" title="heroku" **alt="heroku" width="75" height="75"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" title="neovim" **alt="neovim" width="75" height="75"/>
 </div>
 
 ---
