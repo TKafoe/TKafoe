@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/55a53e31-17d4-4a61-87a5-cf30143d8d64)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/55a53e31-17d4-4a61-87a5-cf30143d8d64" alt="Banner Image" style="display: block; margin-left: auto; margin-right: auto; width: 75%;">
+</p>
 
 ## Tom Kafoe - About Me
 
