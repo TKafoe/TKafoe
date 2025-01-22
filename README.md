@@ -33,11 +33,6 @@ title="cmake" **alt="cmake" width="75" height="75" />
 
 ---
 
-### ❔ Quib  
-Quiz Android app developed using Flutter as the mobile framework, Django as REST API, and Postgresql for data storage. We use Heroku to host the project. However, it has yet to be released live and it is currently in beta testing.
-
----
-
 ### Glow 2021 - The Cycle of Light
 The Cycle of Light was an art installation that visualizes light exposures between three occupations (doctor, farmer and office worker). I participated in this project as a light programmer. Syncing the lights to the sound track using DMX, Art-Net, C++, Arduino and midi-triggering to ensure the lighting effects are triggered at the exact time they should.
 
